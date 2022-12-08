@@ -86,7 +86,7 @@ h6 {
 }
 
 #topbar .contact-info i {
-  color: rgb(141, 55, 216);
+  color: rgb(248, 252, 11);
   line-height: 0;
   margin-right: 5px;
 }
@@ -250,7 +250,7 @@ img {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color:  rgb(141, 55, 216);
+  color:  rgb(241, 245, 10);
 }
 
 .navbar .getstarted,
@@ -793,7 +793,7 @@ section {
   display: block;
   font-size: 24px;
   font-weight: 400;
-  color:rgb(141, 55, 216);
+  color:rgb(239, 243, 12);
 }
 
 .why-us .content-item h4 {
@@ -1408,7 +1408,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background:  rgb(141, 55, 216);
+  background:  rgb(216, 213, 55);
   color: #fff;
   line-height: 1;
   padding: 8px 0;
