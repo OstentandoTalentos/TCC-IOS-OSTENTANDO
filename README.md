@@ -2,4 +2,4 @@
 Site desenvolvido para o Instituto da Oportunidade Social
 
 
-Agradeçe o Prof depois!!!!!
+Agradecer o Prof depois!!!!!
